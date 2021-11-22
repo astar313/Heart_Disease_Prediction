@@ -26,7 +26,7 @@ The dataset has 14 attributes:
  - slope: the slope of the peak exercise ST segment (Value 0: upsloping; Value 1: flat; Value 2: downsloping).
  - ca: number of major vessels (0-3) colored by flourosopy.
  - thal: thalassemia (3 = normal; 6 = fixed defect; 7 = reversable defect).
- - target: heart disease (1 = no, 2 = yes).
+ - disease: heart disease (1 = no, 2 = yes).
 
 
 ## File Descriptions 
